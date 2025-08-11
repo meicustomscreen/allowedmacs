@@ -1,0 +1,12 @@
+{
+  "allowed_machines": [
+    {
+      "name": "Robin",
+      "cpu_id": "BFEBFBFF000806EC",
+      "motherboard_serial": "L1HF17K010K",
+      "mac_address": "F4-4E-E3-E1-93-B7",
+      "fingerprint_hash": "e1b94e1a5d3a9e9a4e2db314751b348877d2cb09bd3260c40f6ba0410ba48845"
+    }
+ 
+  ]
+}
