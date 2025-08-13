@@ -1,12 +1,20 @@
 {
   "allowed_machines": [
     {
-      "name": "Robin",
+      "name": "Robin-officelaptop",
       "cpu_id": "BFEBFBFF000806EC",
       "motherboard_serial": "L1HF17K010K",
       "mac_address": "F4-4E-E3-E1-93-B7",
       "fingerprint_hash": "e1b94e1a5d3a9e9a4e2db314751b348877d2cb09bd3260c40f6ba0410ba48845"
     }
+    {
+      "name": "Robin-service",
+      "cpu_id": "BFEBFBFF000806EA",
+      "motherboard_serial": "PGWHQ00WBDS004",
+      "mac_address": "FC77741F59F5",
+      "fingerprint_hash": "7e4a6a69e935fd73c05b54a970608bbdc444df40802bd0b79cad7f0fed09b420"
+    }
  
   ]
+
 }
