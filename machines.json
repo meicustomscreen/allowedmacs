@@ -4,18 +4,45 @@
       "name": "Robin-officelaptop",
       "cpu_id": "BFEBFBFF000806EC",
       "motherboard_serial": "L1HF17K010K",
-      "mac_address": "F4-4E-E3-E1-93-B7",
-      "fingerprint_hash": "e1b94e1a5d3a9e9a4e2db314751b348877d2cb09bd3260c40f6ba0410ba48845"
+      "mac_address1": "F4-4E-E3-E1-93-B7",
+      "mac_address2": "F4-4E-E3-E1-93-B7",
+      "mac_address3": "F4-4E-E3-E1-93-B7",
+      "mac_address4": "F4-4E-E3-E1-93-B7",
+      "fingerprint_hash1": "e1b94e1a5d3a9e9a4e2db314751b348877d2cb09bd3260c40f6ba0410ba48845",
+      "fingerprint_hash2": "e1b94e1a5d3a9e9a4e2db314751b348877d2cb09bd3260c40f6ba0410ba48845", 
+      "fingerprint_hash3": "e1b94e1a5d3a9e9a4e2db314751b348877d2cb09bd3260c40f6ba0410ba48845", 
+      "fingerprint_hash4": "e1b94e1a5d3a9e9a4e2db314751b348877d2cb09bd3260c40f6ba0410ba48845", 
     }
     {
       "name": "Robin-service",
       "cpu_id": "BFEBFBFF000806EA",
       "motherboard_serial": "PGWHQ00WBDS004",
-      "mac_address": "FC-77-74-1F-59-F5",
-      "fingerprint_hash": "7e4a6a69e935fd73c05b54a970608bbdc444df40802bd0b79cad7f0fed09b420"
+      "mac_address1": "FC-77-74-1F-59-F5",
+      "mac_address2": "FC-77-74-1F-59-F5",
+      "mac_address3": "FC-77-74-1F-59-F5",
+      "mac_address4": "FC-77-74-1F-59-F5",
+      "fingerprint_hash1": "7e4a6a69e935fd73c05b54a970608bbdc444df40802bd0b79cad7f0fed09b420",
+       "fingerprint_hash2": "7e4a6a69e935fd73c05b54a970608bbdc444df40802bd0b79cad7f0fed09b420", 
+      "fingerprint_hash3": "7e4a6a69e935fd73c05b54a970608bbdc444df40802bd0b79cad7f0fed09b420", 
+      "fingerprint_hash4": "7e4a6a69e935fd73c05b54a970608bbdc444df40802bd0b79cad7f0fed09b420", 
+    }
+
+     {
+      "name": "Robin-personal",
+      "cpu_id": "BFEBFBFF000A0652",
+      "motherboard_serial": "NBQ99110011280D20D3400",
+      "mac_address1": "00-FF-9C-C4-7C-F0",
+       "mac_address2": "08-8F-C3-08-30-8D",
+      "mac_address3": "C4-23-60-36-DE-AE",
+      "mac_address4": "C4-23-60-36-DE-AE",
+      "fingerprint_hash1": "7e4a6a69e935fd73c05b54a970608bbdc444df40802bd0b79cad7f0fed09b420"
+        "fingerprint_hash2": "7e4a6a69e935fd73c05b54a970608bbdc444df40802bd0b79cad7f0fed09b420", 
+      "fingerprint_hash3": "7e4a6a69e935fd73c05b54a970608bbdc444df40802bd0b79cad7f0fed09b420", 
+      "fingerprint_hash4": "7e4a6a69e935fd73c05b54a970608bbdc444df40802bd0b79cad7f0fed09b420", 
     }
  
   ]
 
 }
+
 
